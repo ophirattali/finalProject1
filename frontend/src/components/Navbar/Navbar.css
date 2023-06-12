@@ -1,0 +1,21 @@
+.logo {
+  font-family: fantasy, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: black;
+}
+.navbarContainer {
+  background: #fff;
+  box-shadow: 2px 2px 5px #e2e2e2;
+
+}
+.links > a {
+  text-decoration: none;
+  color: black;
+  margin: auto;
+  margin-right: 15px;
+}
+
+.logout-div {
+  display: flex;
+  justify-content: end;
+}

@@ -1,0 +1,13 @@
+.allRecipies{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-shadow: 0 2px 4px rgb(248, 252, 3);
+}
+.myRecipiesTitle{
+    font-weight: 600;
+    color: darkblue;
+    margin-bottom: 15px;
+    background-color: #fff634;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.571);
+}

@@ -1,0 +1,26 @@
+.aboutPage {
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background: url('../../assets/images/aboutPage.jpg') no-repeat;
+  background-size:cover ;
+  width: 100%;
+   
+  box-shadow: 0 3px 6px rgb(0, 0, 0);
+
+}
+.aboutTitle {
+  font-size: 54px;
+  background: url('../../assets/images/homePageBackground.jpg') no-repeat;
+  background-size:cover ;
+  color: #fff;
+  padding-left: 20px;
+}
+.aboutP {
+  padding: 20px;
+}
+.aboutP > p{
+  background-color: rgba(254, 254, 253, 0.53);
+  font-weight: 9800;
+  
+  }

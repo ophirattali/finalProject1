@@ -1,0 +1,20 @@
+.login-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('../../assets/images/background_login.jpg') no-repeat;
+  background-size:cover ;
+  color: white;
+
+  .input-element {
+    margin: 5px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0);
+  }
+
+  .toRegisterLogin {
+    cursor: pointer;
+    margin-top: 5px;
+    font-size: large;
+  }
+}

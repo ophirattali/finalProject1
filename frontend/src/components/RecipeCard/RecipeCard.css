@@ -1,0 +1,40 @@
+.recipeCard{
+    width: 25vw;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px gray;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.cardImage{
+    width: auto;
+    border-radius: 3px 3px 0 0;
+    height: 250px;
+}
+.recipeName{
+    font-weight: 700;
+}
+.recipeTime{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.favoriteHeart{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    background: #ffffff82;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    .recipeCard{
+        width: 80vw;
+        margin-bottom: 15px;
+    }
+  }

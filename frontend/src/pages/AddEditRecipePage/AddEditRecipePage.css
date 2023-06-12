@@ -1,0 +1,32 @@
+.inputClass {
+  margin-bottom: 15px;
+  width: 80%;
+ 
+}
+.addRecipeContainer {
+  margin-top: 20px;
+  background-color: #61625dcf;
+  height: 100vh;
+  box-shadow: 0 2px 4px rgb(48, 44, 44);
+}
+.addRecipeButton {
+  margin-top: 20px;
+  background: #fff634;
+  color: #61625d;
+  width: 38%;
+  padding: 10px 10px;
+  border-radius: 8px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: 0 2%; 
+}
+.addRecipeTitle {
+  font-weight: 600;
+  color: darkblue;
+  margin-bottom: 15px;
+  font-size: 70px;
+  box-shadow: 0 2px 4px rgba(48, 44, 44, 0.5);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+}
